@@ -1,6 +1,6 @@
 ## MLPR Project ##
 
-Repository with the code and report (in pdf format) for the MLPR course final project. 
+Repository with the code and report (in pdf format: MLPR_Project_Report_s316607.pdf) for the MLPR course final project. 
 
 This repository is organized in the following way:
 
